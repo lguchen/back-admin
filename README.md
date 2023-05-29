@@ -5,4 +5,4 @@
 - lombok
 - hutool
 - JWT
-## 前端：[https://github.com/lguchen/back-admin](https://github.com/lguchen/back-admin)
+## 前端：[https://github.com/lguchen/back-admin](https://github.com/lguchen/front-admin)
